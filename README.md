@@ -172,20 +172,5 @@ This project is for educational and assessment purposes.
    - `YOUR_PASSWORD` with your DB password
 
 
-   
-
-
-## 📷 Website Screenshots
-
-### Home Page
-![Home Page](./screenshots/loginpage.png)
-
-### Receptionist Page
-![Receptionist Page](./screenshots/receptionist_page.png)
-
-### Doctor Page
-![Doctor Page](./screenshots/doctor_page.png)
-
-
 >>>>>>> 82eda99f (Initial commit)
 
