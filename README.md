@@ -160,8 +160,13 @@ This project is for educational and assessment purposes.
    - `YOUR_PASSWORD` with your DB password
 
 
-   ![alt text](image-1.png)
-   ![alt text](image.png)
-   ![alt text](image-2.png)
+   
+   ## 📷 Website Screenshots
+
+### Home Page
+![Home Page](./screenshots/loginpage.png)
+![Login Page](./screenshots/receptionist_page.png)
+![Login Page](./screenshots/doctor_page.png)
+
 >>>>>>> 82eda99f (Initial commit)
 
