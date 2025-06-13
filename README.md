@@ -134,6 +134,18 @@ You can import the included Postman collection or Swagger file from the `docs/` 
 
 * Can be deployed using Render, Railway, Vercel (frontend), or Docker
 
+## 📷 Website Screenshots
+
+### Home Page
+![Home Page](./screenshots/loginpage.png)
+
+### Receptionist Page
+![Receptionist Page](./screenshots/receptionist_page.png)
+
+### Doctor Page
+![Doctor Page](./screenshots/doctor_page.png)
+
+
 ---
 
 ## 🧾 License
