@@ -161,12 +161,19 @@ This project is for educational and assessment purposes.
 
 
    
-   ## 📷 Website Screenshots
+
+
+## 📷 Website Screenshots
 
 ### Home Page
 ![Home Page](./screenshots/loginpage.png)
-![Login Page](./screenshots/receptionist_page.png)
-![Login Page](./screenshots/doctor_page.png)
+
+### Receptionist Page
+![Receptionist Page](./screenshots/receptionist_page.png)
+
+### Doctor Page
+![Doctor Page](./screenshots/doctor_page.png)
+
 
 >>>>>>> 82eda99f (Initial commit)
 
